@@ -6,5 +6,5 @@ import { useEffect, useState } from "react";
 import { useRouter } from "next/router";
 
 export default function Home() {
-  return <div>Good luck with the quiz</div>;
+  return <div>plz be mercy krub</div>;
 }
